@@ -1,0 +1,23 @@
+Patter: Lilith, Line number: 1, Index number: [0]
+Patter: Lilith, Line number: 2, Index number: [9]
+Patter: Lilith, Line number: 5, Index number: [0]
+Patter: Lilith, Line number: 8, Index number: [27]
+Patter: Lilith, Line number: 10, Index number: [0]
+Patter: Lilith, Line number: 13, Index number: [21]
+
+Patter: Golde?n?, Line number: 9, Index number: [0]
+
+Patter: sto*d, Line number: 7, Index number: [16]
+
+Patter: .u.*lies, Line number: 2, Index number: [37]
+
+Patter: Vil+age, Line number: 11, Index number: [0]
+
+Patter: .*nc?ien.*, Line number: 7, Index number: [0]
+
+Patter: ra+.*its?, Line number: 6, Index number: [9]
+
+Patter: d.y.*, Line number: 2, Index number: [4]
+Patter: d.y.*, Line number: 2, Index number: [70]
+Patter: d.y.*, Line number: 6, Index number: [5]
+
